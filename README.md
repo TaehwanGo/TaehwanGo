@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 -->
 
 [Portfolio](https://www.taehwango.info)
-
-[Codesandbox](https://codesandbox.io/dashboard/home?workspace=9c8b0eb5-8f33-43f9-b8e2-d12d23f13d88)
