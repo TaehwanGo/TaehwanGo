@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Portfolio](http://taehwango.info){:target="_blank"}
+[Portfolio](http://taehwango.info){:target="_blank" rel="noopener"}
