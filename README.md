@@ -1,4 +1,4 @@
-### 폴리매스를 지향하는 개발자
+### 개발자 Tony
 
 ![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TaehwanGo&show_icons=true)
 
