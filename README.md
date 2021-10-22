@@ -1,4 +1,4 @@
-### [개발자 Tony](https://blog.naver.com/gth1123)
+### <a href="https://blog.naver.com/gth1123" target="_blank">개발자 Tony</a>
 
 ![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TaehwanGo&show_icons=true)
 
