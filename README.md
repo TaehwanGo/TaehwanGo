@@ -1,4 +1,4 @@
-### 영감을 주는 개발자
+### [개발자 Tony](https://blog.naver.com/gth1123)
 
 ![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TaehwanGo&show_icons=true)
 
