@@ -1,4 +1,4 @@
-### <a href="https://blog.naver.com/gth1123" target="_blank">개발자 Tony</a>
+### <a href="https://pickle-weeder-20b.notion.site/59bd0bc3fef244edbcf024827aeda484" target="_blank">개발자 Tony</a>
 
 ![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TaehwanGo&show_icons=true)
 
