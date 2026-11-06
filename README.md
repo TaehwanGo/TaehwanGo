@@ -3,8 +3,6 @@
 
 #### 🏎️ [Roadster Run: 로드스터를 몰며 보는 이력서](https://roadster-resume.vercel.app)
 
-![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TaehwanGo&show_icons=true)
-
 <!--
 **TaehwanGo/TaehwanGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
